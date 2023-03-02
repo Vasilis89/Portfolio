@@ -16,17 +16,26 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="col-md-12">
-          <div className="social-links">{networks}</div>
+        <div>
+          Contact
+          <a href="mailto:vasilismyrianth@gmail.com">
+            <br></br>Email
+          </a>
+          <a href="https://docs.google.com/document/d/1l4MYYC5w4eI3zuijtLKQ6yoVzcr42DkXLGtAa8xKtLc/edit">
+            <br></br>Resume
+          </a>
+          <div className="col-md-12">
+            <div className="social-links">{networks}</div>
 
-          <div className="copyright py-4 text-center">
-            <div className="container">
-              <small>
-                Copyright &copy;{" "}
-                {this.props.sharedBasicInfo
-                  ? this.props.sharedBasicInfo.name
-                  : "???"}
-              </small>
+            <div className="copyright py-4 text-center">
+              <div className="container">
+                <small>
+                  Copyright &copy;{" "}
+                  {this.props.sharedBasicInfo
+                    ? this.props.sharedBasicInfo.name
+                    : "???"}
+                </small>
+              </div>
             </div>
           </div>
         </div>
