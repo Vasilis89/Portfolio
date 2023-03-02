@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description_header": "Cześć",
+    "description_header": "Yεια",
     "description": "👋 Είμαι ο Βασίλης Μυριανθόπουλος. Είμαι προγραμματιστής Backend που αποφοίτησε πρόσφατα από το bootcamp της Γενικής Συνέλευσης Software Engineering Immersive. Ο στόχος μου είναι να παρέχω λειτουργικό πλαίσιο υποστήριξης που είναι σε θέση να επεξεργάζεται δεδομένα εξαιρετικά καλά.",
     "section_name": {
       "about": "Σχετικά με μένα",
@@ -11,8 +11,8 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
+      "title": "Alike",
+      "startDate": "2023",
       "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",

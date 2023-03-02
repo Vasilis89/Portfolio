@@ -5,7 +5,7 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Vasilis89",
           "class": "fab fa-github"
         },
         {
@@ -34,8 +34,8 @@
           "level": "70"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "PostgresSQL",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         },
         {
@@ -49,9 +49,9 @@
           "level": "55"
         },
         {
-          "name": "Express",
-          "class": "devicon-express-plain",
-          "level": "60"
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": "55"
         }
       ]
     }

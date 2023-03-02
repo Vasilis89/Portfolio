@@ -1,68 +1,55 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Vasilis Myrianthopoulos. I am a Backend Developer that has recently graduated from General Assembly's Software Engineering Immersive bootcamp. My goal is to provide functional backend framework that is able to Thank you 💜",
+      "description": "👋 I'm Vasilis Myrianthopoulos. I am a Backend Developer that has recently graduated from General Assembly's Software Engineering Immersive bootcamp. My goal is to provide functional backend framework that is able to process data exceedingly well. I hope anyone viewing my portfolio can see me as a valuable asset to their team.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "skills": "Skills"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Alike",
+        "startDate": "2023",
+        "description": "Our final bootcamp project. Implementing a django/python backend to work with our react app to create a social media like app was the goal. We came up with a instagram like page that specifcally targets Software engineers to share their projects in a social media format and showing off how it looks. We put in a github link that will take the user to the github page where they can find the code and take a deeper look into the users project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/alike/p1.jpg",
+          "images/portfolio/alike/p2.jpg"
         ],
-        "url": "",
+        "url": "https://alike-ga.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "ReposFit",
+        "startDate": "2023",
+        "description": "My second to last project was another group project that had 5 members. My peers and i decided to make a fitness page that users could track their workouts on. A cool addition we have is a link to another groups project that specialized in tracking food intake. Our projects work very well together and our team made a great page that works flawlessly. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/reposfit/g1.jpg",
+          "images/portfolio/reposfit/g2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://reposfit.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -78,41 +65,5 @@
           }
         ]
       }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
     ]
-  }
+}
